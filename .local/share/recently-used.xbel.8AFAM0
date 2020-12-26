@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/utils/text-scroller.cc" added="2020-06-15T20:51:33Z" modified="2020-06-15T20:51:33Z" visited="2020-06-15T20:51:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-06-15T20:51:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/examples-api-use/text-example.cc" added="2020-06-15T20:53:24Z" modified="2020-06-15T20:53:24Z" visited="2020-06-15T20:53:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2020-06-15T20:53:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/priceread.py" added="2020-06-16T00:20:34Z" modified="2020-06-16T00:20:35Z" visited="2020-06-16T00:20:35Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-06-16T00:20:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/stockquote.py" added="2020-06-16T00:21:39Z" modified="2020-06-16T00:21:39Z" visited="2020-06-16T00:21:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-16T00:21:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/ticker.py" added="2020-06-16T01:37:51Z" modified="2020-06-16T01:37:51Z" visited="2020-06-16T01:37:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-16T01:37:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/quotes.py" added="2020-06-17T03:03:40Z" modified="2020-06-17T03:03:40Z" visited="2020-06-17T03:03:40Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-06-17T03:03:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/walmart.py" added="2020-06-17T03:09:37Z" modified="2020-06-17T03:09:37Z" visited="2020-06-17T03:09:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-17T03:09:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/ticker_uber.py" added="2020-06-17T03:16:34Z" modified="2020-06-17T03:16:34Z" visited="2020-06-17T03:16:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-17T03:16:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/README.md" added="2020-06-17T03:44:43Z" modified="2020-06-17T03:44:43Z" visited="2020-06-17T03:44:43Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-06-17T03:44:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/apple_fetch.py" added="2020-06-17T04:59:44Z" modified="2020-06-17T04:59:44Z" visited="2020-06-17T04:59:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-17T04:59:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/amazon_fetch.py" added="2020-06-17T05:01:08Z" modified="2020-06-17T05:01:08Z" visited="2020-06-17T05:01:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-17T05:01:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/rpi-rgb-led-matrix/bindings/python/samples/tsla_fetch.py" added="2020-06-17T05:01:41Z" modified="2020-06-17T05:01:41Z" visited="2020-06-17T05:01:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2020-06-17T05:01:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
