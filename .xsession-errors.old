@@ -27,7 +27,7 @@ dbus-update-activation-environment: setting NO_AT_BRIDGE=1
 dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
 dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
 dbus-update-activation-environment: setting PWD=/home/pi
-** Message: 16:31:39.349: main.vala:101: Session is LXDE-pi
-** Message: 16:31:39.350: main.vala:102: DE is LXDE
-** Message: 16:31:39.693: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
-** Message: 16:31:39.693: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+** Message: 16:31:40.298: main.vala:101: Session is LXDE-pi
+** Message: 16:31:40.299: main.vala:102: DE is LXDE
+** Message: 16:31:40.715: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 16:31:40.715: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
