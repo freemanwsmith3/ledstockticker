@@ -1,0 +1,1 @@
+"""I don't remember why but I had to put the actual files in a really weird place. File locations is /home/pi/rpi-rgb-led-matrix/bindings/python/samples. in the folder, fathersday.py is the main script that runs upon power on. Then it basically displays the prices and periodcally checks for them"""
